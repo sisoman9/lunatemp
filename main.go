@@ -13,7 +13,7 @@ func main() {
 
 	http.Handle("/includes/", http.StripPrefix("/includes", http.FileServer(http.Dir("./includes"))))
 
-	http.ListenAndServe(":8080", nil)
+	http.ListenAndServe(":80", nil)
 
 }
 

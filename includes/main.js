@@ -36,9 +36,9 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'https://storage.googleapis.com/lunaxspics/bg01.jpg': 'center',
-							'https://storage.googleapis.com/lunaxspics/bg02.jpg': 'center',
-							'https://storage.googleapis.com/lunaxspics/bg03.jpg': 'center'
+							'bg01.jpg': 'center',
+							'bg02.jpg': 'center',
+							'bg03.jpg': 'center'
 						},
 
 					// Delay.

@@ -1,9 +1,0 @@
-runtime: go114  # or go112 or go113 for Go 1.12 or Go 1.13
-
-handlers:
-
-
-
-- url: /.*
-  script: auto
-  secure: always
